@@ -1,1 +1,12 @@
-
+body {
+    
+}
+form{
+    padding:10px;
+    display:flex;
+    gap:10px;
+    
+}
+button{
+    padding:1px 15px;
+}
